@@ -69,7 +69,7 @@ also available here to save you the fuss: https://jsfiddle.net/UDany/f8782jw3/
 Tests
 -----
 
-Sadly, no standardized pretty tests, but there is a Test method tha allows you to test that
+Sadly, no standardized pretty tests, but there is a Test method that allows you to test that
 it's deterministic and reversible.
 
 
