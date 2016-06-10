@@ -1,5 +1,5 @@
 Id to Hash
-===================
+==========
 
 A PHP implementation for generating hashes from numbers, very useful for creating
 short urls such as those created by Tiny URL- and bit.ly-like URLs.
