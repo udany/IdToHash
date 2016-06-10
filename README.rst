@@ -32,7 +32,7 @@ The following is taken verbatim from his implementation, but should hold true he
 
 I should add here the major change from the original implementation:
 
-Wheres there was only one alphabet used this library requires two, that is because
+Whereas there was only one alphabet used this library requires two, that is because
 the original implementation, whilst allowing for padding, used the character that
 represented 0 to pad the generated string. Here, we have a specific alphabet used
 for padding, thus making the guessing of any sort of pattern harder.
